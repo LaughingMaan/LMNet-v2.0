@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  LMBlTcpServer.cpp
+  LMBlTcpClient.cpp
+  LMBlTcp.cpp
+  Создание кода...
+  LMNet.cpp
+     Создается библиотека C:\Users\lawil\Source\Repos\LMNet-v2.0\LMNet\Debug\LMNet.lib и объект C:\Users\lawil\Source\Repos\LMNet-v2.0\LMNet\Debug\LMNet.exp
+  LMNet.vcxproj -> C:\Users\lawil\Source\Repos\LMNet-v2.0\LMNet\Debug\LMNet.dll
+  LMNet.vcxproj -> C:\Users\lawil\Source\Repos\LMNet-v2.0\LMNet\Debug\LMNet.pdb (Partial PDB)
